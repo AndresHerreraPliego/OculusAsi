@@ -1,0 +1,35 @@
+ManifestFileVersion: 0
+CRC: 2621674336
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 4c26be4aacb5165aa5806b3abda8b135
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: b0363f7088f9761414f730641bf9a24b
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Textures/FloorTiles001_2K_Displacement.jpg
+- Assets/Textures/Sofia Ropa Falda.jpg
+- Assets/Textures/Ojos de Pablo.jpg
+- Assets/Textures/Tiles002_2K_Displacement.jpg
+- Assets/Textures/AN_Sum_Ground_2_Normal.jpg
+- Assets/Textures/FloorTiles001_2K_Normal.jpg
+- Assets/Textures/UV Pablo underwear.jpg
+- Assets/Textures/Ojos.jpg
+- Assets/Textures/DropZone.jpg
+- Assets/Textures/AN_Bark_1_Albedo.jpg
+- Assets/Textures/Sofia Ropa Interior.jpg
+- Assets/Textures/Tiles002_2K_Color.jpg
+- Assets/Textures/AN_Sum_Grass_1_Albedo.jpg
+- Assets/Textures/Tiles002_2K_Normal.jpg
+- Assets/Textures/AN_Bark_1_Normal.jpg
+- Assets/Textures/AN_Sum_Ground_2_Aldebo.jpg
+- Assets/Textures/Sofia Ropa Principal.jpg
+- Assets/Textures/FloorTiles001_2K_Color.jpg
+- Assets/Textures/UV Pablo.jpg
+Dependencies: []

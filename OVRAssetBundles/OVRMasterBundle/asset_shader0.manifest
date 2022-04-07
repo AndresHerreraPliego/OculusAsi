@@ -1,0 +1,17 @@
+ManifestFileVersion: 0
+CRC: 1292276315
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 4e3b1a0693c4d1b784031c6066b45426
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 68c985bf88fecc38b460cdb825182138
+HashAppended: 0
+ClassTypes:
+- Class: 48
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Shaders/AN_Vegetation.shader
+Dependencies: []

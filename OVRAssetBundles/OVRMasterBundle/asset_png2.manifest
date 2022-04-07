@@ -1,0 +1,40 @@
+ManifestFileVersion: 0
+CRC: 772028599
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 366df7c7a6ec334e1a9a4bbd9ac11775
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: b0363f7088f9761414f730641bf9a24b
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Textures/PuertaInteriorFBX_DefaultMaterial_Normal.png
+- Assets/Textures/VentanaMarco_DefaultMaterial_MetallicSmoothness.png
+- Assets/Textures/sillon_DefaultMaterial_AlbedoTransparency.png
+- Assets/Textures/untitled_DefaultMaterial_MetallicSmoothness.png
+- Assets/Textures/Muneca_DefaultMaterial_Normal.png
+- Assets/Scenes/ASI_Test/Lightmap-0_comp_dir.png
+- Assets/Textures/Juego de Te_Material.001_Normal.png
+- Assets/Textures/botones-puerta.png
+- Assets/Textures/CasaFinal_DefaultMaterial_Normal.png
+- Assets/Textures/Mesa_DefaultMaterial_AlbedoTransparency.png
+- Assets/Textures/Ventilador_DefaultMaterial_MetallicSmoothness.png
+- Assets/Textures/FireTruck_DefaultMaterial_MetallicSmoothness.png
+- Assets/Textures/Estrella2.png
+- Assets/Textures/Silla_DefaultMaterial_AlbedoTransparency.png
+- Assets/Textures/CasaFinal_DefaultMaterial_MetallicSmoothness.png
+- Assets/Textures/CamaNina_DefaultMaterial_AlbedoTransparency.png
+- Assets/Textures/Ventilador_DefaultMaterial_Normal.png
+- Assets/Textures/CuartoMueble_DefaultMaterial_MetallicSmoothness.png
+- Assets/Textures/VentanaMarco_DefaultMaterial_AlbedoTransparency.png
+- Assets/Textures/Juego de Te_Material.001_AlbedoTransparency.png
+- Assets/Scenes/ASI_Test/Lightmap-0_comp_shadowmask.png
+- Assets/Textures/FireTruck_DefaultMaterial_AlbedoTransparency.png
+- Assets/Textures/PuertaFBX_Material_MetallicSmoothness.png
+- Assets/Textures/Muneca_DefaultMaterial_AlbedoTransparency.png
+Dependencies: []

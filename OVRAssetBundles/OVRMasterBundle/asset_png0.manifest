@@ -1,0 +1,50 @@
+ManifestFileVersion: 0
+CRC: 3368765864
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 78b926da72491a34a3d0ebf88cd967e3
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: f957402f1c6c48bbde14bcee38e591e0
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 89
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Scenes/Main/Lightmap-9_comp_dir.png
+- Assets/Textures/barda_1_DefaultMaterial_Normal.png
+- Assets/Textures/AN_Flowers.png
+- Assets/Textures/barda_1_DefaultMaterial_AlbedoTransparency.png
+- Assets/Textures/AN_Sum_Grass_1_Normal.png
+- Assets/Scenes/Main/ReflectionProbe-0.png
+- Assets/Scenes/Main/Lightmap-4_comp_dir.png
+- Assets/Scenes/Main/Lightmap-6_comp_dir.png
+- Assets/Textures/AN_Broadleaf_Leaves.png
+- Assets/Textures/AN_Flower.png
+- Assets/Textures/AN_Leaf.png
+- Assets/Textures/Cement_DefaultMaterial_MetallicSmoothness.png
+- Assets/Scenes/Main/Lightmap-8_comp_dir.png
+- Assets/Scenes/Main/Lightmap-2_comp_dir.png
+- Assets/Textures/AN_Glow.png
+- Assets/Textures/Barda_2_DefaultMaterial_AlbedoTransparency.png
+- Assets/Scenes/Main/Lightmap-7_comp_dir.png
+- Assets/Scenes/Main/Lightmap-0_comp_dir.png
+- Assets/Textures/AN_Bush_Leaves.png
+- Assets/Textures/Barda_2_DefaultMaterial_Normal.png
+- Assets/Textures/AN_Birch_Leaves.png
+- Assets/Textures/Cement_DefaultMaterial_Normal.png
+- Assets/Textures/AN_Grass_1.png
+- Assets/Scenes/Main/Lightmap-1_comp_dir.png
+- Assets/Scenes/Main/Lightmap-5_comp_dir.png
+- Assets/Textures/Barda_2_DefaultMaterial_MetallicSmoothness.png
+- Assets/Textures/Logo.png
+- Assets/Scenes/Main/Lightmap-3_comp_dir.png
+- Assets/Textures/Cement_DefaultMaterial_AlbedoTransparency.png
+- Assets/Textures/FS000_Day_04.png
+Dependencies: []

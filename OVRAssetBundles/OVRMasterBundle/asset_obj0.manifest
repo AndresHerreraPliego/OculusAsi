@@ -1,0 +1,50 @@
+ManifestFileVersion: 0
+CRC: 1041766330
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: d3306b1255783757a92ad40edf1ffa77
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: f64856a3d606b613608cbf22df470c60
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Models/Barda_1.obj
+- Assets/Models/Mesa.obj
+- Assets/Models/Piso1.obj
+- Assets/Models/CasaPared.obj
+- Assets/Models/CuartoMueble.obj
+- Assets/Models/Silla.obj
+- Assets/Models/Sillon.obj
+- Assets/Models/FireTruck.obj
+- Assets/Models/Muneca.obj
+- Assets/Models/Ventana.obj
+- Assets/Models/Grass.obj
+- Assets/Models/VentanaMarco.obj
+- Assets/Models/CamaTecho.obj
+- Assets/Models/Ventilador.obj
+- Assets/Models/Barda_2.obj
+- Assets/Models/Dirt.obj
+- Assets/Models/CamaNino.obj
+- Assets/Models/CuartoRopero.obj
+- Assets/Models/Cement.obj
+- Assets/Models/CamaNina.obj
+Dependencies:
+- C:/Users/usuario/Documents/GitHub/OculusAsi/OVRAssetBundles/OVRMasterBundle/asset_mat0
+- C:/Users/usuario/Documents/GitHub/OculusAsi/OVRAssetBundles/OVRMasterBundle/asset_mat1

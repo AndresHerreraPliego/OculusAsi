@@ -1,0 +1,57 @@
+ManifestFileVersion: 0
+CRC: 1246397476
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 6af9690028475767c2ad5780b8fc4a71
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 41f5e68da31a4f6b36e45572326352d3
+HashAppended: 0
+ClassTypes:
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 89
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Materials/Pablo_Ojos.mat
+- Assets/Materials/Cars.mat
+- Assets/Materials/Sillon.mat
+- Assets/Materials/GodRays.mat
+- Assets/Materials/Leaves_Mat.mat
+- Assets/Materials/Sofia_Cuerpo.mat
+- Assets/Materials/Grass.mat
+- Assets/Materials/Bark_Mat.mat
+- Assets/Materials/Leaves_Mat 1.mat
+- Assets/Materials/Acosador.mat
+- Assets/Materials/GrassPlane.mat
+- Assets/Materials/Leafs.mat
+- Assets/Materials/Barda_2.mat
+- Assets/Materials/Sky.mat
+- Assets/Materials/Cement.mat
+- Assets/Materials/Sofia_Falda.mat
+- Assets/Materials/JuegoTe.mat
+- Assets/Materials/Barda_1.mat
+- Assets/Materials/Estrella.mat
+- Assets/Materials/Sofia_OjoI.mat
+- Assets/Materials/Flowers_Mat.mat
+- Assets/Materials/Verde.mat
+- Assets/Materials/Rojo.mat
+- Assets/Materials/Flowers.mat
+- Assets/Materials/Dirt.mat
+- Assets/Materials/Leaves_Mat 2.mat
+- Assets/Materials/UV Pablo.mat
+- Assets/Materials/Firetruck.mat
+- Assets/Materials/Muneca.mat
+- Assets/Materials/Sofia_OjoD.mat
+Dependencies:
+- C:/Users/usuario/Documents/GitHub/OculusAsi/OVRAssetBundles/OVRMasterBundle/asset_jpg0
+- C:/Users/usuario/Documents/GitHub/OculusAsi/OVRAssetBundles/OVRMasterBundle/asset_png0
+- C:/Users/usuario/Documents/GitHub/OculusAsi/OVRAssetBundles/OVRMasterBundle/asset_png1
+- C:/Users/usuario/Documents/GitHub/OculusAsi/OVRAssetBundles/OVRMasterBundle/asset_png2
+- C:/Users/usuario/Documents/GitHub/OculusAsi/OVRAssetBundles/OVRMasterBundle/asset_shader0

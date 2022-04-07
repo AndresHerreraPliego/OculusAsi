@@ -1,0 +1,40 @@
+ManifestFileVersion: 0
+CRC: 4103064481
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: a3a9f1b287f082e9fdeb9f021dd0f60f
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 939e20ecac0e95a3f7c5cfb3e57acb1d
+HashAppended: 0
+ClassTypes:
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Materials/PuertaInterior.mat
+- Assets/Materials/CamaNino.mat
+- Assets/Materials/Ventilador.mat
+- Assets/Materials/CasaPiso_2.mat
+- Assets/Materials/CasaPared.mat
+- Assets/Materials/VentanaMarco.mat
+- Assets/Materials/Botones_Puerta.mat
+- Assets/Materials/VentanaCristal.mat
+- Assets/Materials/Silla.mat
+- Assets/Materials/MuebleCuarto.mat
+- Assets/Materials/FadeCube.mat
+- Assets/Materials/CasaPiso.mat
+- Assets/Materials/CamaNina.mat
+- Assets/Materials/Puerta.mat
+- Assets/Materials/Mesa.mat
+- Assets/Materials/SelectionZone.mat
+- Assets/Materials/Ropero.mat
+Dependencies:
+- C:/Users/usuario/Documents/GitHub/OculusAsi/OVRAssetBundles/OVRMasterBundle/asset_jpg0
+- C:/Users/usuario/Documents/GitHub/OculusAsi/OVRAssetBundles/OVRMasterBundle/asset_png1
+- C:/Users/usuario/Documents/GitHub/OculusAsi/OVRAssetBundles/OVRMasterBundle/asset_png2

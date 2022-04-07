@@ -1,0 +1,34 @@
+ManifestFileVersion: 0
+CRC: 3210602494
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 8d93b36be7937308ff173ffe242272c5
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: fdf6c57a251b9f6ec27bdd2fe01b033c
+HashAppended: 0
+ClassTypes:
+- Class: 74
+  Script: {instanceID: 0}
+- Class: 91
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/SofiaSalir.controller
+- Assets/AcosadorCosquillas.controller
+- Assets/PabloIntro.controller
+- Assets/SofiaCoches.controller
+- Assets/SofiaTe.controller
+- Assets/FadeCube.controller
+- Assets/SofiaIntro.controller
+- Assets/PuertaPivoteAux.controller
+- Assets/SofiaMicuerpo.controller
+- Assets/AcosadorPuertaAbierta.controller
+- Assets/FillerCube.controller
+- Assets/SofiaMunecas.controller
+- Assets/PabloMicuerpo.controller
+- Assets/AcosadorSalir.controller
+Dependencies:
+- C:/Users/usuario/Documents/GitHub/OculusAsi/OVRAssetBundles/OVRMasterBundle/asset_anim0
+- C:/Users/usuario/Documents/GitHub/OculusAsi/OVRAssetBundles/OVRMasterBundle/asset_fbx0

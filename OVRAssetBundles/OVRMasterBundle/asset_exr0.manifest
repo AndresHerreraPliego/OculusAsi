@@ -1,0 +1,35 @@
+ManifestFileVersion: 0
+CRC: 4123527434
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: e11bf82cc7170f87f283df6bff693ba0
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: e6e651bdddca608c77d51fff2e12d033
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 89
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Scenes/Main/Lightmap-4_comp_light.exr
+- Assets/Scenes/ASI_Test/ReflectionProbe-1.exr
+- Assets/Scenes/ASI_Test/ReflectionProbe-4.exr
+- Assets/Scenes/Main/Lightmap-0_comp_light.exr
+- Assets/Scenes/Main/Lightmap-2_comp_light.exr
+- Assets/Scenes/Main/Lightmap-6_comp_light.exr
+- Assets/Scenes/Main/Lightmap-3_comp_light.exr
+- Assets/Scenes/ASI_Test/ReflectionProbe-2.exr
+- Assets/Scenes/ASI_Test/ReflectionProbe-3.exr
+- Assets/Scenes/ASI_Test/Lightmap-0_comp_light.exr
+- Assets/Scenes/ASI_Test/ReflectionProbe-0.exr
+- Assets/Scenes/Main/Lightmap-8_comp_light.exr
+- Assets/Scenes/Main/Lightmap-7_comp_light.exr
+- Assets/Scenes/Main/ReflectionProbe-1.exr
+- Assets/Scenes/Main/Lightmap-1_comp_light.exr
+- Assets/Scenes/Main/Lightmap-9_comp_light.exr
+- Assets/Scenes/Main/Lightmap-5_comp_light.exr
+Dependencies: []

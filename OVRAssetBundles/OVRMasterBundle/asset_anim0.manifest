@@ -1,0 +1,19 @@
+ManifestFileVersion: 0
+CRC: 3642378100
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 5abac629c18cb47bcb2e86eb7a495f7e
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: af57576da81d5d3ce45807ac11234de6
+HashAppended: 0
+ClassTypes:
+- Class: 74
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Animations/CubeFillerZoom.anim
+- Assets/Animations/CubeFade.anim
+- Assets/Animations/AbrirCerrar.anim
+Dependencies: []

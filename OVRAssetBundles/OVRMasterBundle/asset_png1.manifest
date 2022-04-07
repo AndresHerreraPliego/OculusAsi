@@ -1,0 +1,46 @@
+ManifestFileVersion: 0
+CRC: 3255183628
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 1a6c5f2b0090c451323fd3a907e30cc3
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: b0363f7088f9761414f730641bf9a24b
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Textures/sillon_DefaultMaterial_Normal.png
+- Assets/Textures/CuartoRopero_DefaultMaterial_AlbedoTransparency.png
+- Assets/Textures/CuartoMueble_DefaultMaterial_AlbedoTransparency.png
+- Assets/Textures/FireTruck_DefaultMaterial_Normal.png
+- Assets/Textures/Mesa_DefaultMaterial_MetallicSmoothness.png
+- Assets/Textures/CamaNino_DefaultMaterial_MetallicSmoothness.png
+- Assets/Textures/CuartoMueble_DefaultMaterial_Normal.png
+- Assets/Textures/sillon_DefaultMaterial_MetallicSmoothness.png
+- Assets/Textures/CamaNino_DefaultMaterial_Normal.png
+- Assets/Textures/Silla_DefaultMaterial_Normal.png
+- Assets/Textures/PuertaInteriorFBX_DefaultMaterial_AlbedoTransparency.png
+- Assets/Textures/Mesa_DefaultMaterial_Normal.png
+- Assets/Textures/untitled_DefaultMaterial_AlbedoTransparency.png
+- Assets/Textures/Silla_DefaultMaterial_MetallicSmoothness.png
+- Assets/Textures/Juego de Te_Material.001_MetallicSmoothness.png
+- Assets/Textures/VentanaMarco_DefaultMaterial_Normal.png
+- Assets/Textures/CasaFinal_DefaultMaterial_AlbedoTransparency.png
+- Assets/Textures/CamaNino_DefaultMaterial_AlbedoTransparency.png
+- Assets/Textures/Acosador_DefaultMaterial_AlbedoTransparency.png
+- Assets/Textures/CamaNina_DefaultMaterial_Normal.png
+- Assets/Textures/Muneca_DefaultMaterial_MetallicSmoothness.png
+- Assets/Textures/PuertaInteriorFBX_DefaultMaterial_MetallicSmoothness.png
+- Assets/Textures/PuertaFBX_Material_AlbedoTransparency.png
+- Assets/Textures/CamaNina_DefaultMaterial_MetallicSmoothness.png
+- Assets/Textures/PuertaFBX_Material_Normal.png
+- Assets/Textures/barda_1_DefaultMaterial_MetallicSmoothness.png
+- Assets/Textures/Ventilador_DefaultMaterial_AlbedoTransparency.png
+- Assets/Textures/untitled_DefaultMaterial_Normal.png
+- Assets/Textures/CuartoRopero_DefaultMaterial_MetallicSmoothness.png
+- Assets/Textures/CuartoRopero_DefaultMaterial_Normal.png
+Dependencies: []

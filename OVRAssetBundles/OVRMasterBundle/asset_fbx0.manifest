@@ -1,0 +1,64 @@
+ManifestFileVersion: 0
+CRC: 709955456
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 4232047119fa1e45b511a79cf8dcb7ce
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: cf87203de4540434ab2108b2f132a092
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 74
+  Script: {instanceID: 0}
+- Class: 90
+  Script: {instanceID: 0}
+- Class: 95
+  Script: {instanceID: 0}
+- Class: 137
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Models/Acosador_Cosquillas_Fix.fbx
+- Assets/Models/Boton_G.fbx
+- Assets/Models/AN_Bush_3.fbx
+- Assets/Models/PuertaInteriorFBX.fbx
+- Assets/Models/Puerta.fbx
+- Assets/Models/Sofia_juegodete_Fix.fbx
+- Assets/Models/AN_Broadleaf_2.fbx
+- Assets/Models/AN_Flowers.fbx
+- Assets/Models/Acosador_Salir_fix.fbx
+- Assets/Models/AN_Grass_1.fbx
+- Assets/Models/Sofia_Munecas_Fix.fbx
+- Assets/Models/PabloIntro.fbx
+- Assets/Models/Sofia_Coches_fix.fbx
+- Assets/Models/Acosador_PuertaAbierta.fbx
+- Assets/Models/Sofia_Salir_Fix.fbx
+- Assets/Models/Piso.fbx
+- Assets/Models/Juego de Te.fbx
+- Assets/Models/CarsFBX.fbx
+- Assets/Models/Pablo_Micuerpo.fbx
+- Assets/Models/AN_Bush_1.fbx
+- Assets/Models/Botones_Puerta.fbx
+- Assets/Models/Sofia_Micuerpo.fbx
+- Assets/Models/SofiaIntro.fbx
+Dependencies:
+- C:/Users/usuario/Documents/GitHub/OculusAsi/OVRAssetBundles/OVRMasterBundle/asset_mat0
+- C:/Users/usuario/Documents/GitHub/OculusAsi/OVRAssetBundles/OVRMasterBundle/asset_mat1
+- C:/Users/usuario/Documents/GitHub/OculusAsi/OVRAssetBundles/OVRMasterBundle/asset_png1

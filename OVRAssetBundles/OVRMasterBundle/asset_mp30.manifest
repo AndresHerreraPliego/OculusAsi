@@ -1,0 +1,29 @@
+ManifestFileVersion: 0
+CRC: 3761797492
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 190cb9f1105b70ac546b192976dad417
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 9a2ca7bdbd1871f7131daf57de908e0c
+HashAppended: 0
+ClassTypes:
+- Class: 83
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Audios/AcosadorPuerta.mp3
+- Assets/Audios/Presentacion_Shorter.mp3
+- Assets/Audios/FeedBackSalir.mp3
+- Assets/Audios/SofiaCarros.mp3
+- Assets/Audios/SofiaTe.mp3
+- Assets/Audios/FeedbackPuertaAbierta.mp3
+- Assets/Audios/SofiaSalir.mp3
+- Assets/Audios/SofiaPuertaAbierta.mp3
+- Assets/Audios/FeedbackPuertaCerrada.mp3
+- Assets/Audios/SofiaPuertaCerrada.mp3
+- Assets/Audios/EntrarCuarto.mp3
+- Assets/Audios/SofiaMunecas.mp3
+- Assets/Audios/AcosadorCosquillas.mp3
+Dependencies: []
