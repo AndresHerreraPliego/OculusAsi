@@ -1,12 +1,12 @@
 ManifestFileVersion: 0
-CRC: 1041766330
+CRC: 1295117934
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: d3306b1255783757a92ad40edf1ffa77
+    Hash: b933537d9cd312cc2371db8676e83af1
   TypeTreeHash:
     serializedVersion: 2
-    Hash: f64856a3d606b613608cbf22df470c60
+    Hash: 81fc4833398717ae320ec5bd08c661f4
 HashAppended: 0
 ClassTypes:
 - Class: 1
@@ -29,11 +29,10 @@ Assets:
 - Assets/Models/Mesa.obj
 - Assets/Models/Piso1.obj
 - Assets/Models/CasaPared.obj
+- Assets/Models/CasaPared 1.obj
 - Assets/Models/CuartoMueble.obj
 - Assets/Models/Silla.obj
 - Assets/Models/Sillon.obj
-- Assets/Models/FireTruck.obj
-- Assets/Models/Muneca.obj
 - Assets/Models/Ventana.obj
 - Assets/Models/Grass.obj
 - Assets/Models/VentanaMarco.obj
@@ -46,5 +45,5 @@ Assets:
 - Assets/Models/Cement.obj
 - Assets/Models/CamaNina.obj
 Dependencies:
-- C:/Users/usuario/Documents/GitHub/OculusAsi/OVRAssetBundles/OVRMasterBundle/asset_mat0
-- C:/Users/usuario/Documents/GitHub/OculusAsi/OVRAssetBundles/OVRMasterBundle/asset_mat1
+- C:/Users/andre/Documents/GitHub/OculusAsi/OVRAssetBundles/OVRMasterBundle/asset_mat0
+- C:/Users/andre/Documents/GitHub/OculusAsi/OVRAssetBundles/OVRMasterBundle/asset_mat1

@@ -1,12 +1,12 @@
 ManifestFileVersion: 0
-CRC: 709955456
+CRC: 376916485
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 4232047119fa1e45b511a79cf8dcb7ce
+    Hash: 57c704a78650c7e822e03b7779fbb7ee
   TypeTreeHash:
     serializedVersion: 2
-    Hash: cf87203de4540434ab2108b2f132a092
+    Hash: 1029bb139b2613aacf7642d8e77570b5
 HashAppended: 0
 ClassTypes:
 - Class: 1
@@ -35,30 +35,36 @@ ClassTypes:
   Script: {instanceID: 0}
 SerializeReferenceClassIdentifiers: []
 Assets:
-- Assets/Models/Acosador_Cosquillas_Fix.fbx
 - Assets/Models/Boton_G.fbx
 - Assets/Models/AN_Bush_3.fbx
-- Assets/Models/PuertaInteriorFBX.fbx
+- Assets/Oculus/VR/Meshes/OculusTouchForQuest2/OculusTouchForQuest2_Right.fbx
+- Assets/Oculus/VR/Meshes/OculusTouchForQuest2/OculusTouchForQuest2_Left.fbx
+- Assets/Oculus/VR/Meshes/MetaQuestTouchPro/MetaQuestTouchPro_Right.fbx
 - Assets/Models/Puerta.fbx
-- Assets/Models/Sofia_juegodete_Fix.fbx
+- Assets/Oculus/VR/Meshes/OculusTouchForQuestAndRiftS/OculusTouchForQuestAndRiftS_Left.fbx
+- Assets/Models/escena 7x.fbx
+- Assets/Models/PuertaInteriorFBX.fbx
+- Assets/Models/Escena 1X.fbx
 - Assets/Models/AN_Broadleaf_2.fbx
 - Assets/Models/AN_Flowers.fbx
-- Assets/Models/Acosador_Salir_fix.fbx
+- Assets/Models/drive-download-20230106T155711Z-001/escena 1.fbx
 - Assets/Models/AN_Grass_1.fbx
-- Assets/Models/Sofia_Munecas_Fix.fbx
+- Assets/Models/escena 8x.fbx
 - Assets/Models/PabloIntro.fbx
-- Assets/Models/Sofia_Coches_fix.fbx
-- Assets/Models/Acosador_PuertaAbierta.fbx
-- Assets/Models/Sofia_Salir_Fix.fbx
+- Assets/Models/escena 1X aux.fbx
 - Assets/Models/Piso.fbx
-- Assets/Models/Juego de Te.fbx
-- Assets/Models/CarsFBX.fbx
-- Assets/Models/Pablo_Micuerpo.fbx
+- Assets/Oculus/VR/Meshes/OculusTouchForQuestAndRiftS/OculusTouchForQuestAndRiftS_Right.fbx
+- Assets/Oculus/VR/Meshes/HandTracking/OculusHand_R.fbx
+- Assets/Oculus/Interaction/Runtime/Meshes/OculusHandPinchArrowBlended.fbx
+- Assets/Oculus/VR/Meshes/HandTracking/OculusHand_L.fbx
 - Assets/Models/AN_Bush_1.fbx
-- Assets/Models/Botones_Puerta.fbx
-- Assets/Models/Sofia_Micuerpo.fbx
+- Assets/Oculus/VR/Meshes/OculusTouchForRift/left_touch_controller_model_skel.fbx
+- Assets/Oculus/VR/Meshes/OculusTouchForRift/right_touch_controller_model_skel.fbx
 - Assets/Models/SofiaIntro.fbx
+- Assets/Oculus/VR/Meshes/MetaQuestTouchPro/MetaQuestTouchPro_Left.fbx
 Dependencies:
-- C:/Users/usuario/Documents/GitHub/OculusAsi/OVRAssetBundles/OVRMasterBundle/asset_mat0
-- C:/Users/usuario/Documents/GitHub/OculusAsi/OVRAssetBundles/OVRMasterBundle/asset_mat1
-- C:/Users/usuario/Documents/GitHub/OculusAsi/OVRAssetBundles/OVRMasterBundle/asset_png1
+- C:/Users/andre/Documents/GitHub/OculusAsi/OVRAssetBundles/OVRMasterBundle/asset_mat0
+- C:/Users/andre/Documents/GitHub/OculusAsi/OVRAssetBundles/OVRMasterBundle/asset_mat1
+- C:/Users/andre/Documents/GitHub/OculusAsi/OVRAssetBundles/OVRMasterBundle/asset_mat2
+- C:/Users/andre/Documents/GitHub/OculusAsi/OVRAssetBundles/OVRMasterBundle/asset_png2
+- C:/Users/andre/Documents/GitHub/OculusAsi/OVRAssetBundles/OVRMasterBundle/asset_png3

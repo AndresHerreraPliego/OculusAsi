@@ -1,0 +1,31 @@
+ManifestFileVersion: 0
+CRC: 903152342
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 1cef6d481c14b9fd63d72860c7f5c009
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: f9f3d136959ac0e7043e721e899342fb
+HashAppended: 0
+ClassTypes:
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Oculus/Interaction/Runtime/Materials/UIDepthOverwrite.mat
+- Assets/Materials/Material.007 3.mat
+- Assets/Materials/UV Pablo 4.mat
+- Assets/Materials/Material.005 3.mat
+- Assets/Oculus/Interaction/Runtime/Materials/UIUnderlayImposter.mat
+- Assets/Materials/Material.018 3.mat
+- Assets/Oculus/SampleFramework/Usage/SceneManager/Materials/Wall.mat
+- Assets/Materials/Material.017 3.mat
+Dependencies:
+- C:/Users/andre/Documents/GitHub/OculusAsi/OVRAssetBundles/OVRMasterBundle/asset_png3
+- C:/Users/andre/Documents/GitHub/OculusAsi/OVRAssetBundles/OVRMasterBundle/asset_resources
+- C:/Users/andre/Documents/GitHub/OculusAsi/OVRAssetBundles/OVRMasterBundle/asset_shader0

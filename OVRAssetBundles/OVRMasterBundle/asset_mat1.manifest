@@ -1,12 +1,12 @@
 ManifestFileVersion: 0
-CRC: 4103064481
+CRC: 861510408
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: a3a9f1b287f082e9fdeb9f021dd0f60f
+    Hash: 2867fe709c3a219b6c1ecbd9be8bd714
   TypeTreeHash:
     serializedVersion: 2
-    Hash: 939e20ecac0e95a3f7c5cfb3e57acb1d
+    Hash: f9f3d136959ac0e7043e721e899342fb
 HashAppended: 0
 ClassTypes:
 - Class: 21
@@ -18,23 +18,40 @@ ClassTypes:
 SerializeReferenceClassIdentifiers: []
 Assets:
 - Assets/Materials/PuertaInterior.mat
+- Assets/Materials/Cars.mat
+- Assets/Materials/Sillon.mat
 - Assets/Materials/CamaNino.mat
+- Assets/Materials/GodRays.mat
+- Assets/Materials/Material.008 3.mat
+- Assets/Materials/Material.006 3.mat
 - Assets/Materials/Ventilador.mat
 - Assets/Materials/CasaPiso_2.mat
 - Assets/Materials/CasaPared.mat
 - Assets/Materials/VentanaMarco.mat
-- Assets/Materials/Botones_Puerta.mat
+- Assets/Materials/Bark_Mat.mat
 - Assets/Materials/VentanaCristal.mat
 - Assets/Materials/Silla.mat
 - Assets/Materials/MuebleCuarto.mat
-- Assets/Materials/FadeCube.mat
+- Assets/Materials/Cement.mat
+- Assets/Materials/JuegoTe.mat
 - Assets/Materials/CasaPiso.mat
+- Assets/Materials/Material.016 3.mat
+- Assets/Oculus/VR/Meshes/OculusTouchForQuest2/Materials/OculusTouchForQuest2_MAT.mat
 - Assets/Materials/CamaNina.mat
+- Assets/Materials/Sofia_RopaPrincipal.002 1.mat
 - Assets/Materials/Puerta.mat
+- Assets/Materials/Material.011.mat
 - Assets/Materials/Mesa.mat
-- Assets/Materials/SelectionZone.mat
+- Assets/Oculus/Interaction/Runtime/Materials/UIDefaultOverlay.mat
+- Assets/Materials/UV Pablo.mat
 - Assets/Materials/Ropero.mat
+- Assets/Materials/Muneca.mat
+- Assets/Materials/Sofia_OjoD.mat
 Dependencies:
-- C:/Users/usuario/Documents/GitHub/OculusAsi/OVRAssetBundles/OVRMasterBundle/asset_jpg0
-- C:/Users/usuario/Documents/GitHub/OculusAsi/OVRAssetBundles/OVRMasterBundle/asset_png1
-- C:/Users/usuario/Documents/GitHub/OculusAsi/OVRAssetBundles/OVRMasterBundle/asset_png2
+- C:/Users/andre/Documents/GitHub/OculusAsi/OVRAssetBundles/OVRMasterBundle/asset_jpg0
+- C:/Users/andre/Documents/GitHub/OculusAsi/OVRAssetBundles/OVRMasterBundle/asset_png0
+- C:/Users/andre/Documents/GitHub/OculusAsi/OVRAssetBundles/OVRMasterBundle/asset_png1
+- C:/Users/andre/Documents/GitHub/OculusAsi/OVRAssetBundles/OVRMasterBundle/asset_png2
+- C:/Users/andre/Documents/GitHub/OculusAsi/OVRAssetBundles/OVRMasterBundle/asset_png3
+- C:/Users/andre/Documents/GitHub/OculusAsi/OVRAssetBundles/OVRMasterBundle/asset_resources
+- C:/Users/andre/Documents/GitHub/OculusAsi/OVRAssetBundles/OVRMasterBundle/asset_tga0

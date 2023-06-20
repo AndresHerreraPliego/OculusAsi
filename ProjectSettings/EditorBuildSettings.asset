@@ -10,7 +10,31 @@ EditorBuildSettings:
     guid: e5a0f140aa21afd4886a0d0eca7f67e4
   - enabled: 1
     path: Assets/Scenes/E01_Presentacion.unity
-    guid: b8655b9f5203aed4d96e782f26daa519
+    guid: 876d71d61bfe09542901c7914d261c20
+  - enabled: 1
+    path: Assets/Scenes/E02_Cuidado.unity
+    guid: e5aa718f7011ade499c21d65e89c1db9
+  - enabled: 1
+    path: Assets/Scenes/E03_Cuerpo.unity
+    guid: 7593e6e09432ac04d97d04e513b565ef
+  - enabled: 1
+    path: Assets/Scenes/E04_Genero.unity
+    guid: 35b2e2b9bfa7a9b40a32a84b9b96b16d
+  - enabled: 1
+    path: Assets/Scenes/E05_Secretos.unity
+    guid: 5197d8ea1d020dd4ea893f642ac09191
+  - enabled: 1
+    path: Assets/Scenes/E06_Saludo.unity
+    guid: 1bd3ec10017feb24fab742049c7d87dd
+  - enabled: 1
+    path: Assets/Scenes/E07_Juguetes.unity
+    guid: 6e7b1c79f6437d748aee21affd36295e
+  - enabled: 1
+    path: Assets/Scenes/E08_Confianza.unity
+    guid: a3df1ff3aae10b54a96bb351eb0529df
+  - enabled: 1
+    path: Assets/Scenes/E09_Despedida.unity
+    guid: 6342a8f31c2510945aeb1648447780d5
   m_configObjects:
     Unity.XR.Oculus.Settings: {fileID: 11400000, guid: 24e2443b47a09b046a68d7af209a2d5f,
       type: 2}

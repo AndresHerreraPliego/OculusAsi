@@ -1,12 +1,12 @@
 ManifestFileVersion: 0
-CRC: 1246397476
+CRC: 1354140692
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 6af9690028475767c2ad5780b8fc4a71
+    Hash: f6212a2a2c9605b4deda254207b890c5
   TypeTreeHash:
     serializedVersion: 2
-    Hash: 41f5e68da31a4f6b36e45572326352d3
+    Hash: d2de8cb89652a45acc3e5ff4ef3b11ec
 HashAppended: 0
 ClassTypes:
 - Class: 21
@@ -19,39 +19,39 @@ ClassTypes:
   Script: {instanceID: 0}
 SerializeReferenceClassIdentifiers: []
 Assets:
-- Assets/Materials/Pablo_Ojos.mat
-- Assets/Materials/Cars.mat
-- Assets/Materials/Sillon.mat
-- Assets/Materials/GodRays.mat
+- Assets/Oculus/VR/Meshes/OculusTouchForQuestAndRiftS/Materials/OculusTouchForQuestAndRiftS_Material.mat
 - Assets/Materials/Leaves_Mat.mat
 - Assets/Materials/Sofia_Cuerpo.mat
 - Assets/Materials/Grass.mat
-- Assets/Materials/Bark_Mat.mat
+- Assets/Oculus/VR/Meshes/MetaQuestTouchPro/Materials/MetaQuestProLeft_Material.mat
 - Assets/Materials/Leaves_Mat 1.mat
-- Assets/Materials/Acosador.mat
 - Assets/Materials/GrassPlane.mat
+- Assets/Oculus/Interaction/Runtime/Materials/OculusHandPinchMaterial.mat
 - Assets/Materials/Leafs.mat
 - Assets/Materials/Barda_2.mat
+- Assets/Oculus/VR/Meshes/OculusTouchForRift/Materials/OculusTouchForRift_Material.mat
 - Assets/Materials/Sky.mat
-- Assets/Materials/Cement.mat
 - Assets/Materials/Sofia_Falda.mat
-- Assets/Materials/JuegoTe.mat
+- Assets/Oculus/Interaction/Runtime/Materials/OculusHandCursor.mat
 - Assets/Materials/Barda_1.mat
-- Assets/Materials/Estrella.mat
 - Assets/Materials/Sofia_OjoI.mat
 - Assets/Materials/Flowers_Mat.mat
-- Assets/Materials/Verde.mat
+- Assets/Oculus/VR/Meshes/MetaQuestTouchPro/Materials/batteryIndicator_mat.mat
+- Assets/Oculus/Interaction/Runtime/Materials/OculusControllerRayCursor.mat
 - Assets/Materials/Rojo.mat
 - Assets/Materials/Flowers.mat
+- Assets/Oculus/VR/Meshes/MetaQuestTouchPro/Materials/MetaQuestProRight_Material.mat
+- Assets/Oculus/Interaction/Runtime/Materials/OculusControllerRayMaterial.mat
+- Assets/Oculus/Spatializer/scenes/materials/SpatializedObject2.mat
 - Assets/Materials/Dirt.mat
 - Assets/Materials/Leaves_Mat 2.mat
-- Assets/Materials/UV Pablo.mat
-- Assets/Materials/Firetruck.mat
-- Assets/Materials/Muneca.mat
-- Assets/Materials/Sofia_OjoD.mat
+- Assets/Oculus/Interaction/Runtime/Materials/OculusHand.mat
+- Assets/Oculus/SampleFramework/Usage/SceneManager/Materials/Metal.mat
+- Assets/Oculus/Interaction/Runtime/Materials/Unlit Material.mat
+- Assets/Materials/Pablo_Ojos.mat
 Dependencies:
-- C:/Users/usuario/Documents/GitHub/OculusAsi/OVRAssetBundles/OVRMasterBundle/asset_jpg0
-- C:/Users/usuario/Documents/GitHub/OculusAsi/OVRAssetBundles/OVRMasterBundle/asset_png0
-- C:/Users/usuario/Documents/GitHub/OculusAsi/OVRAssetBundles/OVRMasterBundle/asset_png1
-- C:/Users/usuario/Documents/GitHub/OculusAsi/OVRAssetBundles/OVRMasterBundle/asset_png2
-- C:/Users/usuario/Documents/GitHub/OculusAsi/OVRAssetBundles/OVRMasterBundle/asset_shader0
+- C:/Users/andre/Documents/GitHub/OculusAsi/OVRAssetBundles/OVRMasterBundle/asset_jpg0
+- C:/Users/andre/Documents/GitHub/OculusAsi/OVRAssetBundles/OVRMasterBundle/asset_png0
+- C:/Users/andre/Documents/GitHub/OculusAsi/OVRAssetBundles/OVRMasterBundle/asset_png1
+- C:/Users/andre/Documents/GitHub/OculusAsi/OVRAssetBundles/OVRMasterBundle/asset_shader0
+- C:/Users/andre/Documents/GitHub/OculusAsi/OVRAssetBundles/OVRMasterBundle/asset_tga0

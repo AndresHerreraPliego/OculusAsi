@@ -1,9 +1,9 @@
 ManifestFileVersion: 0
-CRC: 3210602494
+CRC: 58810133
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 8d93b36be7937308ff173ffe242272c5
+    Hash: 691fed7ca4de110c7528f94c17be4834
   TypeTreeHash:
     serializedVersion: 2
     Hash: fdf6c57a251b9f6ec27bdd2fe01b033c
@@ -15,20 +15,21 @@ ClassTypes:
   Script: {instanceID: 0}
 SerializeReferenceClassIdentifiers: []
 Assets:
-- Assets/SofiaSalir.controller
-- Assets/AcosadorCosquillas.controller
+- Assets/Oculus/VR/Meshes/OculusTouchForQuestAndRiftS/Animation/OculusTouchQuestAndRiftSLeftAnimation.controller
 - Assets/PabloIntro.controller
-- Assets/SofiaCoches.controller
-- Assets/SofiaTe.controller
-- Assets/FadeCube.controller
+- Assets/Oculus/VR/Meshes/MetaQuestTouchPro/Animation/MetaQuestTouchProRightAnimation.controller
+- Assets/Oculus/VR/Meshes/OculusTouchForQuest2/Animation/OculusTouchQuest2LeftAnimation.controller
 - Assets/SofiaIntro.controller
 - Assets/PuertaPivoteAux.controller
-- Assets/SofiaMicuerpo.controller
-- Assets/AcosadorPuertaAbierta.controller
-- Assets/FillerCube.controller
-- Assets/SofiaMunecas.controller
-- Assets/PabloMicuerpo.controller
-- Assets/AcosadorSalir.controller
+- Assets/Oculus/VR/Meshes/OculusTouchForRift/Animation/OculusTouchRiftRightAnimation.controller
+- Assets/Models/escena 7x.controller
+- Assets/Models/escena 1X.controller
+- Assets/Oculus/VR/Meshes/OculusTouchForQuestAndRiftS/Animation/OculusTouchQuestAndRiftSRightAnimation.controller
+- Assets/Animations/Transition.controller
+- Assets/Oculus/VR/Meshes/OculusTouchForQuest2/Animation/OculusTouchQuest2RightAnimation.controller
+- Assets/Oculus/VR/Meshes/MetaQuestTouchPro/Animation/MetaQuestTouchProLeftAnimation.controller
+- Assets/Models/escena 8x.controller
+- Assets/Oculus/VR/Meshes/OculusTouchForRift/Animation/OculusTouchRiftLeftAnimation.controller
 Dependencies:
-- C:/Users/usuario/Documents/GitHub/OculusAsi/OVRAssetBundles/OVRMasterBundle/asset_anim0
-- C:/Users/usuario/Documents/GitHub/OculusAsi/OVRAssetBundles/OVRMasterBundle/asset_fbx0
+- C:/Users/andre/Documents/GitHub/OculusAsi/OVRAssetBundles/OVRMasterBundle/asset_anim0
+- C:/Users/andre/Documents/GitHub/OculusAsi/OVRAssetBundles/OVRMasterBundle/asset_fbx0
